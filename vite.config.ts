@@ -13,7 +13,7 @@ export default defineConfig(async ({ mode }) => {
   }
 
   return {
-    base: '/FUTURE_FS_01/',   // ← ADD THIS
+    base: '/FUTURE_FS_01/',
     plugins,
     envPrefix: ['VITE_', 'NEXT_PUBLIC_'],
     define: processEnvDefines,
