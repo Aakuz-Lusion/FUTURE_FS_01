@@ -11,6 +11,26 @@ const skillCategories = [
       { name: 'TypeScript', level: 75 },
     ],
   },
+    {
+    title: 'Backend',
+    skills: [
+      { name: 'Java', level: 80 },
+      { name: 'Python', level: 75 },
+      { name: 'C#', level: 70 },
+      { name: 'C', level: 65 },
+      {name: 'C++', level: 70 },
+    ],
+  },
+  {
+    title: 'Styling & UI',
+    skills: [
+      { name: 'Tailwind CSS', level: 85 },
+      { name: 'Bootstrap', level: 70 },
+      { name: 'Responsive Design', level: 90 },
+      { name: 'Framer Motion', level: 75 },
+      { name: 'TypeScript', level: 75 },
+    ],
+  },
   {
     title: 'Styling & UI',
     skills: [
